@@ -3,9 +3,13 @@
   "version": "0.0.0",
   "description": "PTP example for ambient module",
   "main": "index.js",
-  "scripts" : {
+  "scripts": {
     "start": "sudo node index.js"
   },
   "author": "Nathan Lintz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ambient-attx4": "^0.2.1",
+    "ptp-tessel": "*"
+  }
 }
