@@ -1,0 +1,11 @@
+{
+  "name": "PTP-modules-ambient-sound",
+  "version": "0.0.0",
+  "description": "PTP example for ambient module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Lintz",
+  "license": "ISC"
+}
